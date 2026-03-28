@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330194611732",
+    "project_id": "debtbook-aa5c7",
+    "storage_bucket": "debtbook-aa5c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330194611732:android:9e181f77198ff079b68101",
+        "android_client_info": {
+          "package_name": "com.example.debtbook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxDAzy5Ybw6aCf7emus8SlW1xJO863mKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
